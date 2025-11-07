@@ -11,7 +11,7 @@ I am a results-driven Frontend Developer with experience in building 50+ modern,
 
 📧 asadlakho503@gmail.com
 
-🔗My Portfolio: [https://asadlakhoportfolio.netlify.app/](https://asadlakhoportfolio.netlify.app/)
+🔗My Portfolio: [https://asadlakhoportfolio.netlify.app/](https://asadlakhoportfolio.netlify.app/)                             
 My Skills 🛠️ :
 
 HTML5 & CSS3 – Semantic markup, Flexbox, Grid, Animations ✨
